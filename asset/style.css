@@ -127,7 +127,7 @@ li {
 
 .box2 {
   background-image: linear-gradient(#2e333969, #2e3339b6),
-    url("/image/box2.jpg");
+    url("../image/box2.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   height: 32rem;
